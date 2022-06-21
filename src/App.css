@@ -1,0 +1,12 @@
+.content
+{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.form-control:focus,.btn:focus,.navbar-toggler:focus
+{
+    box-shadow: none !important;
+}

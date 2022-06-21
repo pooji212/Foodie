@@ -1,0 +1,41 @@
+.collection-items
+{
+    justify-content: space-between;
+}
+.collection-items .card-img-top
+{
+    margin: auto;    
+    width: 16rem;
+    height: 20rem;
+    object-fit: cover;
+    border-radius: 8px;
+    position: relative;    
+}
+.collection-items .image-placeholder
+{
+    margin: auto;
+    background-image: linear-gradient(180deg , rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.142) , black);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 16rem;
+    height: 20rem;
+    object-fit: cover;
+    border-radius: 8px;
+    position: absolute;
+}
+.collection-items .card-title
+{
+    position: absolute;
+    color: whitesmoke;
+    bottom: 1.4rem;
+    left: 0.4rem;
+}
+.collection-items .card-title-place
+{
+    position: absolute;
+    color: whitesmoke;
+    bottom: 0.4rem;
+    left: 1rem;
+}

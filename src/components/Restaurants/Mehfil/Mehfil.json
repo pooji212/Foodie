@@ -1,0 +1,905 @@
+{
+"restaurantName":"Mehfil",
+"foodStyle":"North Indian, Biryani",
+"location":"Narayanaguda, Hyderabad",
+"openingTime":"2:00 AM",
+"closingTime": "3:00 AM",
+"foodMenu": [
+{
+        "Recommended" : [
+                {
+                        "id": "recommended1",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/c68/5a386e7affea7b37382906efa04dbc68.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken Biryani",
+                        "votes": "21571 votes",
+                        "cost": "140",
+                        "description": "An aromatic, mouth watering and authentic Indian dish with succulent chicken in layers of fluffy rice, fragrant spices and caramelized onions !",
+                        "quantity":1
+                },
+                {
+                        "id": "recommended2",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/b96/bdfd0990283e252dd4df980c29539b96.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Special Chicken Biryani",
+                        "votes": "4631 votes",
+                        "cost": "290",
+                        "description": "Serves with Three Pieces of Chicken, Mirchi ka Salan, Dahi ka Chutney & Salad.",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended3",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/060/78f0358214361deb5cd98ad8102c8060.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Mutton Biryani",
+                        "votes": "4337 votes",
+                        "cost": "140",
+                        "description": "Layers of mutton and saffron-milk infused rice cooked 'dum' style and has a host of spices and herbs.",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended4",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/1f7/7c2275810645607dbab1fbbb4e42b1f7.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken Family Pack",
+                        "votes": "2942 votes",
+                        "cost": "550",
+                        "description": "[Sufficient for 4 People]",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended5",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/1f7/7c2275810645607dbab1fbbb4e42b1f7.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken Jumbo Pack",
+                        "votes": "1661 votes",
+                        "cost": "680",
+                        "description": "[Sufficient for 6 People]",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended6",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/b9b/d3f172a0ce80bf01503703d1a1630b9b.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Grilled Chicken",
+                        "votes": "2047 votes",
+                        "cost": "170",
+                        "description": "{Boneless skinless chicken breasts soaked in a garlic and herb marinade, then grilled to golden brown}",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended7",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/c3b/d0964b6230b3fd93eafea9c5da926c3b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Paneer Biryani",
+                        "votes": "3277 votes",
+                        "cost": "110",
+                        "description": "Mildly spiced and delicately flavored dum cooked layered paneer biryani.",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended8",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/9c8/b04771aac074a2d35ef8b498474279c8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Special Mutton Biryani",
+                        "votes": "1257 votes",
+                        "cost": "300",
+                        "description": "Serves with 12 Pieces of Mutton, Mirchi ka Salan, Dahi ka Chutney & Salad.",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended9",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/815/0784dedc9647d07dd3e62d6b17657815.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Boneless Chicken Biryani",
+                        "votes": "2311 votes",
+                        "cost": "170",
+                        "description": "Biryani made with Boneless chunks of chicken.",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended10",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/5ca/32047044e4875b246735832d8e92e5ca.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken 65",
+                        "votes": "1151 votes",
+                        "cost": "220",
+                        "description": "Spicy, deep-fried chicken dish.",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended11",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/683/74e6a1498e95256ae262d77913c19683.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Tandoori Chicken Kebab",
+                        "votes": "1157 votes",
+                        "cost": "170",
+                        "description": "Chicken is marinated in yogurt and delicious Indian spices then grilled or oven baked to achieve the closest.",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended12",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/d0a/b4b6ca41063c3827cc0357487f71ad0a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Mutton Family Pack",
+                        "votes": "359 votes",
+                        "cost": "575",
+                        "description": "[Sufficient for 4 People]",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended13",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/16b/bf43b7c68c0c342afce3dd43a380016b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Butter Chicken",
+                        "votes": "525 votes",
+                        "cost": "220",
+                        "description": "Chunks of grilled chicken (tandoori chicken) cooked in a smooth buttery & creamy tomato based gravy",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended14",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/4a3/4939f593b8edc67b9bfa136f7aa564a3.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Paneer Butter Masala",
+                        "votes": "1124 votes",
+                        "cost": "170 ",
+                        "description": "Slightly sweet creamy dish of paneer, in which the gravy is prepared usually with butter (makhan), tomatoes, cashews or cream. Spices such as red chili powder and garam masala are also used to prepare this.",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended15",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/e7c/a51190802550c251ea4487ae7d291e7c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken Burger",
+                        "votes": "422 votes",
+                        "cost": "75",
+                        "description": "",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended16",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/0c0/760010a0005e7b8ecbbbccc8422970c0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken Lollipop",
+                        "votes": "430 votes",
+                        "cost": "220",
+                        "description": "A crispy and juicy chicken dish where chicken drumsticks are tossed in sweet and tangy sauces",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended17",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/dbf/06677cdd7e7e79e62ed16b9c53208dbf.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken 65 Pizza",
+                        "votes": "203 votes",
+                        "cost": "160",
+                        "description": "",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended18",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/58a/835b3eac6bed3d9842954eb94921558a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Veg Manchurian",
+                        "votes": "543 votes",
+                        "cost": "150",
+                        "description": "Tasty Indo Chinese dish of fried veggie balls in a spicy, sweet and tangy sauce",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended19",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/a5c/96e2831b6385d9c8a229bdf69d0eaa5c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken Grilled Sandwich",
+                        "votes": "352 votes",
+                        "cost": "50",
+                        "description": "",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended20",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/2a7/e567ee1929847cf541b1217e10c382a7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Fish Biryani",
+                        "votes": "479 votes",
+                        "cost": "220",
+                        "description": "Layered rice dish made with fish, basmati rice, spices & herbs.",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended21",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/eee/8d6026604b922d6cf001171253aeceee.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Double Ka Meetha",
+                        "votes": "1024 votes",
+                        "cost": "60",
+                        "description": "Bread pudding Indian sweet of fried bread slices soaked in hot milk with spices, including saffron and cardamom.",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended22",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/ea6/7a37f83bdcfe7d10bbb9d39a0ac6fea6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Drum Stick And Chicken 65 Combo",
+                        "votes": "386 votes",
+                        "cost": "320",
+                        "description": "Avail this mouth watering Chinese combo which includes 4 piece chicken drumstick + full plate chicken 65",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended23",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/ed8/6611adc912f976f285e1f4bf6fa50ed8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Tangdi Kebab",
+                        "votes": "732 votes",
+                        "cost": "120",
+                        "description": "Prepared by soft, moist chicken marinated in aromatic Indian spices.",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended24",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/fa6/118a271fcf06997a4ab4f6f642cbefa6.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken Manchurian",
+                        "votes": "250 votes",
+                        "cost": "220",
+                        "description": "Fried chicken balls cooked in a spicy sauce batter.",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended25",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/dbc/c75b4c5ea4d652d92cc1c5b80709bdbc.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken Fried Rice",
+                        "votes": "275 votes",
+                        "cost": "150",
+                        "description": "Cooked rice that has been stir-fried in a wok or a frying pan and is mixed with chicken.",
+                        "quantity": 1
+                },
+                {
+                        "id": "recommended26",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/3c0/1e18d5dc9c2816a9af4160f8fc33f3c0.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken Crunchy Roll",
+                        "votes": "315 votes",
+                        "cost": "50",
+                        "description": "",
+                        "quantity": 1
+                }
+        ],
+        "Family_jumbo_packs": [
+                {
+                        "id": "familypack1",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/1f7/7c2275810645607dbab1fbbb4e42b1f7.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken Family Pack",
+                        "votes": "2942 votes",
+                        "cost": "550",
+                        "description": "[Sufficient for 4 People]",
+                        "quantity": 1
+                },
+                {
+                        "id": "familypack2",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/1f7/7c2275810645607dbab1fbbb4e42b1f7.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken Jumbo Pack",
+                        "votes": "1661 votes",
+                        "cost": "680",
+                        "description": "[Sufficient for 6 People]",
+                        "quantity": 1
+                },
+                {
+                        "id": "familypack3",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/27b/62ff2da387f47575726b3b2d6bdb627b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Egg Family Pack",
+                        "votes": "131 votes",
+                        "cost": "300",
+                        "description": "[Sufficient for 4 People]",
+                        "quantity": 1
+                },
+                {
+                        "id": "familypack4",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/5f5/e2323323c2b2f57bd74dfcfccf69f5f5.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Egg Jumbo Pack",
+                        "votes": "45 votes",
+                        "cost": "400",
+                        "description": "[Sufficient for 6 People]",
+                        "quantity": 1
+                },
+                {
+                        "id": "familypack5",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/e1e/f5f969ef8242249e76f6511063ad8e1e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Mixed Family Pack",
+                        "votes": "31 votes",
+                        "cost": "550",
+                        "description": "[Sufficient for 4 People]",
+                        "quantity": 1
+                },
+                {
+                        "id": "familypack6",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/e1e/f5f969ef8242249e76f6511063ad8e1e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Mixed Jumbo Pack",
+                        "votes": "22 votes",
+                        "cost": "680",
+                        "description": "[Sufficient for 6 People]",
+                        "quantity": 1
+                },
+                {
+                        "id": "familypack7",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/d0a/b4b6ca41063c3827cc0357487f71ad0a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Mutton Family Pack",
+                        "votes": "359 votes",
+                        "cost": "575",
+                        "description": "[Sufficient for 4 People]",
+                        "quantity": 1
+                },
+                {
+                        "id": "familypack8",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/73c/4effa273b0f9658895c7d5fe8bf8f73c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Mutton Jmbo Pack",
+                        "votes": "272 votes",
+                        "cost": "700",
+                        "description": "[Sufficient for 6 People]",
+                        "quantity": 1
+                },
+                {
+                        "id": "familypack9",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/39b/62537013c7fa5be5e9d1513604e0739b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Veg Family Pack",
+                        "votes": "276 votes",
+                        "cost": "350",
+                        "description": "[Sufficient for 4 People]",
+                        "quantity": 1
+                },
+                {
+                        "id": "familypack10",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/ac9/4caed815aacc46146ee2ade1a8a55ac9.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Veg Jmbo Pack",
+                        "votes": "78 votes",
+                        "cost": "450",
+                        "description": "[Sufficient for 6 People]",
+                        "quantity": 1
+                }
+        ],
+        "Rice_biryani": [
+                {
+                        "id": "rb1",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/815/0784dedc9647d07dd3e62d6b17657815.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Boneless Chicken Biryani",
+                        "votes": "2311 votes",
+                        "cost": "170",
+                        "description": "Biryani made with Boneless chunks of chicken.",
+                        "quantity": 1
+                },
+                {
+                        "id": "rb2",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/c68/5a386e7affea7b37382906efa04dbc68.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Chicken Biryani",
+                        "votes": "21571 votes",
+                        "cost": "140",
+                        "description": "An aromatic, mouth watering and authentic Indian dish with succulent chicken in layers of fluffy rice, fragrant spices and caramelized onions !",
+                        "quantity": 1
+                },
+                {
+                        "id": "rb3",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/b96/bdfd0990283e252dd4df980c29539b96.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Special Chicken Biryani",
+                        "votes": "469 votes",
+                        "cost": "210",
+                        "description": "",
+                        "quantity": 1
+                },
+                {
+                        "id": "rb4",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/060/78f0358214361deb5cd98ad8102c8060.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Special Mutton Biryani",
+                        "votes": "4337 votes",
+                        "cost": "140",
+                        "description": "Layers of mutton and saffron-milk infused rice cooked 'dum' style and has a host of spices and herbs.",
+                        "quantity": 1
+                },
+                {
+                        "id": "rb5",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/c3b/d0964b6230b3fd93eafea9c5da926c3b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Paneer Biryani",
+                        "votes": "3277 votes",
+                        "cost": "110",
+                        "description": "Mildly spiced and delicately flavored dum cooked layered paneer biryani.",
+                        "quantity": 1
+                },
+                {
+                        "id": "rb6",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/2a7/e567ee1929847cf541b1217e10c382a7.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Fish Biryani",
+                        "votes": "479 votes",
+                        "cost": "220",
+                        "description": "Layered rice dish made with fish, basmati rice, spices & herbs.",
+                        "quantity": 1
+                },
+                {
+                        "id": "rb7",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/c3b/d0964b6230b3fd93eafea9c5da926c3b.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Paneer Biryani",
+                        "votes": "520 votes",
+                        "cost": "100",
+                        "description": "",
+                        "quantity": 1
+                },
+                {
+                        "id": "rb8",
+                        "image": "https://www.pavaniskitchen.com/wp-content/uploads/2021/04/egg-biryani-recipe.jpg",
+                        "name": "Egg Biryani",
+                        "votes": "280 votes",
+                        "cost": "150",
+                        "description": "",
+                        "quantity": 1
+                },
+                {
+                        "id": "rb9",
+                        "image": "https://static.toiimg.com/thumb/53098310.cms?imgsize=579584&width=800&height=800",
+                        "name": "Veg Biryani",
+                        "votes": "460 votes",
+                        "cost": "120",
+                        "description": "",
+                        "quantity": 1
+                }
+        ],
+        "Burgers": [
+                {
+                        "id": "burger1",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/2cd/554a151953be2415e44e3d561e8742cd.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Zinger Burger",
+                        "votes": "200 votes",
+                        "cost": "170",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "burger2",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/a70/4de046c19b00431989e3d7cc8e6eaa70.jpg?fit=around|130:130&crop=130:130;*,**",
+                        "name": "andoori Zinger Burger",
+                        "votes": "150 votes",
+                        "cost": "170",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "burger3",
+                        "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2021-04-how-to-chicken-burgers%2F2021-04-19_ATK-52011",
+                        "name": "Chicken Burger",
+                        "votes": "270 votes",
+                        "cost": "65",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "burger4",
+                        "image": "https://static.toiimg.com/thumb/62333823.cms?imgsize=377150&width=800&height=800",
+                        "name": "Chicken Cheese Burger",
+                        "votes": "180 votes",
+                        "cost": "70",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "burger5",
+                        "image": "https://live.staticflickr.com/7914/44747741910_916028e170_n.jpg",
+                        "name": "Paneer Burger",
+                        "votes": "180 votes",
+                        "cost": "60",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "burger6",
+                        "image": "https://buddyspizzaandcafe.com/wp-content/uploads/2021/06/wp1987065.jpg",
+                        "name": "Veg Burger",
+                        "votes": "140 votes",
+                        "cost": "45",
+                        "description": "",
+                        "quantity":1
+                }
+        ],
+        "Pizza": [
+                {
+                        "id": "pizza1",
+                        "image": "https://photo.foodgawker.com/wp-content/uploads/2016/05/2676160.jpg",
+                        "name": "Butter Chicken Pizza",
+                        "votes": "120 votes",
+                        "cost": "160",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "pizza2",
+                        "image": "https://crazyscakes.com/wp-content/uploads/2021/04/onion-pizza.png.png",
+                        "name": "Capsicum Cheese Pizza",
+                        "votes": "210 votes",
+                        "cost": "90",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "pizza3",
+                        "image": "https://crazyscakes.com/wp-content/uploads/2021/04/onion-pizza.png.png",
+                        "name": "Chicken 65 Pizza",
+                        "votes": "280 votes",
+                        "cost": "160",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "pizza4",
+                        "image": "https://rasamalaysia.com/wp-content/uploads/2012/06/chicken-tikka-masala-pizza-thumb.jpg",
+                        "name": "Chicken Pizza",
+                        "votes": "130 votes",
+                        "cost": "150",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "pizza5",
+                        "image": "https://storage.googleapis.com/shy-pub/25607/1638959178207_SKU-1051_0.jpg",
+                        "name": "Corn Cheese Pizza",
+                        "votes": "150 votes",
+                        "cost": "90",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "pizza6",
+                        "image": "https://bizrise.s3.ap-south-1.amazonaws.com/store/img/9409111/product/corn-onion-pizzamedium-8inch/corn-onion-pizzamedium-8inch-1636182171349_1.jpg",
+                        "name": "Onion Cheese Pizza",
+                        "votes": "190 votes",
+                        "cost": "90",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "pizza7",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/8d1/497b07c3d662d7a20de93a62fc25d8d1.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name": "Veg Pizza",
+                        "votes": "220 votes",
+                        "cost": "90",
+                        "description": "",
+                        "quantity":1
+                }
+        ],
+        "Sandwiches": [
+                {
+                        "id": "sandwich1",
+                        "image": "https://www.archanaskitchen.com/images/Smoked_Tandoori_Chicken_And_Cheese_Grilled_Sandwich_recipe-3.jpg",
+                        "name": "Chicken Grilled Sandwich",
+                        "votes": "279 votes",
+                        "cost": "50",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "sandwich2",
+                        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2016/07/chicken-sandwich-with-mayo-500x500.jpg",
+                        "name": "Chicken Mayo Sandwich",
+                        "votes": "120 votes",
+                        "cost": "50",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "sandwich3",
+                        "image": "https://static.onecms.io/wp-content/uploads/sites/44/2019/08/26230722/3858974.jpg",
+                        "name": "Chicken Sandwich",
+                        "votes": "290 votes",
+                        "cost": "40",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "sandwich4",
+                        "image": "https://www.waitrose.com/content/dam/waitrose/TV/anjumchickentikka_thumb.jpg/_jcr_content/renditions/cq5dam.thumbnail.400.400.png",
+                        "name": "Chicken Tikka Sandwich",
+                        "votes": "170 votes",
+                        "cost": "45",
+                        "description": "",
+                        "quantity":1
+                }
+        ],
+        "Shawarma":[
+                {
+                        "id":"shawarma1",
+                        "image":"https://www.thechunkychef.com/wp-content/uploads/2021/03/Chicken-Shawarma-recipe-card.jpg",
+                        "name":"Chicken Shawarma Party Pack",
+                        "votes":"190 votes",
+                        "cost":"120",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id":"shawarma2",
+                        "image":"https://bhimavaram.online/image/cache/food/shawarma/original/chicken_special_shawarma2-500x500.jpg",
+                        "name":"Chicken Shawarma Rumali",
+                        "votes":"210 votes",
+                        "cost":"80",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id":"shawarma3",
+                        "image":"https://content3.jdmagicbox.com/comp/hyderabad/f3/040pxx40.xx40.180319110057.v3f3/catalogue/istah-shawarmas-and-grills-gachibowli-hyderabad-home-delivery-restaurants-fp35f.jpg",
+                        "name":"Chicken Shawarma Samoli",
+                        "votes":"80 votes",
+                        "cost":"150",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id":"shawarma4",
+                        "image":"https://b.zmtcdn.com/data/dish_photos/c10/fedb7bc75f02ac4d9b589f04d8ae6c10.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name":"Shawarma + Fries + Coke 200ml",
+                        "votes":"105 votes",
+                        "cost":"199",
+                        "description": "",
+                        "quantity":1
+                }
+        ],
+        "Puff":[
+                {
+                        "id":"puff1",
+                        "image":"https://b.zmtcdn.com/data/dish_photos/be5/701e6f2beecb2deef5b519836821cbe5.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+                        "name":"Chicken Puff",
+                        "votes":"430 votes",
+                        "cost":"20",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id":"puff2",
+                        "image":"https://www.licious.in/blog/wp-content/uploads/2022/01/shutterstock_1450591601-600x600.jpg",
+                        "name":"Egg Puff",
+                        "votes":"490 votes",
+                        "cost":"15",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id":"puff3",
+                        "image":"https://spicytamarind.com.au/wp-content/uploads/2017/06/paneer-puff-fi.jpg",
+                        "name":"Paneer Puff",
+                        "votes":"550 votes",
+                        "cost":"15",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id":"puff4",
+                        "image":"https://shwetainthekitchen.com/wp-content/uploads/2014/12/Veg-Puff-500x500.jpg",
+                        "name":"Veg Puff",
+                        "votes":"210 votes",
+                        "cost":"15",
+                        "description": "",
+                        "quantity":1
+                }               
+        ],
+        "Cakes":[
+                {
+                        "id": "cake1",
+                        "image":"http://cdn.shopify.com/s/files/1/0116/2008/9956/products/FShreemithai15-01-2021-407lowrescopy_800x.jpg?v=1611572013",
+                        "name":"Black Forest Cake",
+                        "votes":"300 votes",
+                        "cost":"250",
+                        "description":"Black forest cake made fresh everyday.",
+                        "quantity":1
+                },
+                {
+                        "id": "cake2",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/db4/0dc55e412aab45d1f92f438f6238fdb4.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Butterscotch Cake",
+                        "votes": "280 votes",
+                        "cost": "250",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "cake3",
+                        "image": "https://jajabakes.com/wp-content/uploads/2021/04/sour-cream-double-chocolate-muffins-7-720x720.jpg",
+                        "name": "Chocolate Muffin [6 Pieces]",
+                        "votes": "400 votes",
+                        "cost": "250",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "cake4",
+                        "image": "https://thefirstyearblog.com/wp-content/uploads/2015/11/chocolate-chocolate-cake-1.png",
+                        "name": "Full Chocolate Cake",
+                        "votes": "890 votes",
+                        "cost": "450",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "cake5",
+                        "image": "https://gurgaonbakers.com/wp-content/uploads/2020/10/kawaii-pineapple-cake.jpg",
+                        "name": "Pineapple Cake",
+                        "votes": "500 votes",
+                        "cost": "350",
+                        "description": "Pineapple cake made fresh everyday.",
+                        "quantity":1
+                },
+                {
+                        "id": "cake6",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/2bc/0356f2a5cd17c75b9ada77ba910e92bc.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Plum Cake (500 Grams)",
+                        "votes": "400 votes",
+                        "cost": "150",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "cake7",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/b35/4f79026635b668241a9590dfcdcd8b35.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Slice Cake",
+                        "votes": "700 votes",
+                        "cost": "100",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "cake8",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/972/1135820f963afa47644c20fb1feee972.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Swiss Roll",
+                        "votes": "200 votes",
+                        "cost": "80",
+                        "description": "",
+                        "quantity":1
+                }
+
+        ],
+        "Pastries":[
+                {
+                        "id":"past1",
+                        "image":"https://b.zmtcdn.com/data/dish_photos/a2d/e7c1234a13f9021687dd260736c27a2d.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name":"Blackforest Pastry",
+                        "votes":"650 votes",
+                        "cost":"35",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id":"past2",
+                        "image":"https://b.zmtcdn.com/data/dish_photos/67d/9d53d5ad180dd54aceb4bac53751f67d.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name":"Full Chocolate Pastry",
+                        "votes":"210 votes",
+                        "cost":"50",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id":"past3",
+                        "image":"https://b.zmtcdn.com/data/dish_photos/63a/c309e917421fa25d9aa0572d315e263a.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name":"Pineapple Pastry",
+                        "votes":"540 votes",
+                        "cost":"35",
+                        "description": "",
+                        "quantity":1
+                }
+        ],
+        "Premium_cakes":[
+                {
+                        "id": "pc1",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/f74/41c663a324992de586acee420bb62f74.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Exotic Kiwi Cake",
+                        "votes": "130 votes",
+                        "cost": "750",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "pc2",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/641/718c5684cb14457a20d6bd08f883b641.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Kitkat Cake",
+                        "votes": "80 votes",
+                        "cost": "800",
+                        "description": "",
+                        "quantity":1
+                }
+        ],
+        "Biscuits":[
+                {
+                        "id": "biscuits1",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/449/b2f0c03c86bd5f2d5bd99c87763da449.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Fine Biscuit ( 1 Pc )",
+                        "votes": "60 votes",
+                        "cost": "12",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "biscuits2",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/de5/4a76b088a212a3796cd46a781fa6fde5.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Khaari Biscuit (5 Pc)",
+                        "votes": "650 votes",
+                        "cost": "20",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "biscuits3",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/de5/4a76b088a212a3796cd46a781fa6fde5.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Osmania Biscuit ( Half Kg )",
+                        "votes": "650 votes",
+                        "cost": "120",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "biscuits4",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/617/98f5fe327d09087bf6dc66b877e29617.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Tie Biscuit ( 2 Pc )",
+                        "votes": "650 votes",
+                        "cost": "15",
+                        "description": "",
+                        "quantity":1
+                }
+        ],
+        "Deserts":[
+                {
+                        "id": "deserts1",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/eee/8d6026604b922d6cf001171253aeceee.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Double Ka Meetha",
+                        "votes": "650 votes",
+                        "cost": "60",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "deserts2",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/b9d/e1417a39db63e20ba92e21575dd71b9d.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Kaddu Ki Kheer",
+                        "votes": "650 votes",
+                        "cost": "60",
+                        "description": "",
+                        "quantity":1
+                },
+                {
+                        "id": "deserts3",
+                        "image": "https://static.toiimg.com/thumb/60019725.cms?imgsize=287198&width=800&height=800",
+                        "name": "Fruit Salad",
+                        "votes": "650 votes",
+                        "cost": "80",
+                        "description": "",
+                        "quantity":1
+                }
+        ],
+        "Beverages": [
+                {
+                        "id": "beverages1",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/300/27dfa848badeef9c12280036d92cc300.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Pepsi PET",
+                        "votes": "532 votes",
+                        "cost": "50",
+                        "description": "",
+                        "quantity": 1
+                },
+                {
+                        "id": "beverages2",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/a3a/c5697c3d135e25a2740221dc48a28a3a.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Pepsi Can 330 ml",
+                        "votes": "469 votes",
+                        "cost": "55",
+                        "description": "",
+                        "quantity": 1
+                },
+                {
+                        "id": "beverages3",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/384/2dced9921aadeafe8371451d7aea6384.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "7UP Can 330 ml",
+                        "votes": "510 votes",
+                        "cost": "55",
+                        "description": "",
+                        "quantity": 1
+                },
+                {
+                        "id": "beverages4",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/f1a/e7b899e636d3437db478aea16a6d1f1a.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Pepsi Black Can 330 ml",
+                        "votes": "450 votes",
+                        "cost": "50",
+                        "description": "",
+                        "quantity": 1
+                },
+                {
+                        "id": "beverages5",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/0c4/e443a781ae8d4706cb7810605d8ac0c4.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Mirinda Can 330 ml",
+                        "votes": "560 votes",
+                        "cost": "50",
+                        "description": "",
+                        "quantity": 1
+                },
+                {
+                        "id": "beverages6",
+                        "image": "https://b.zmtcdn.com/data/dish_photos/a3d/6a4cdb6f0b606348b7f4ecbec145ea3d.jpg?fit=around|130:130&crop=130:130;*,*",
+                        "name": "Red Bull Energy Drink",
+                        "votes": "600 votes",
+                        "cost": "159",
+                        "description": "",
+                        "quantity": 1
+                }
+        ]
+        
+}
+]                
+}        

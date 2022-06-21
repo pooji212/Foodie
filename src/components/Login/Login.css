@@ -1,0 +1,101 @@
+/* .text-box {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0.25rem;
+}
+.text-box:focus
+{
+    outline: 0 none !important;
+    box-shadow: #66afe999 0px 0px 1px 1px,
+        #66afe999 0px 0px 6px 0px; 
+} */
+
+span a,span a:hover
+{    
+    text-decoration: none;
+    color: rgb(27, 27, 92);
+}
+
+.form-check-label a ,
+.form-check-label a:hover,
+.create_acc,
+.create_acc:hover,.terms
+{
+    text-decoration: none;
+    color: #EF4F5F;
+    cursor: pointer;
+}
+
+.form {
+    padding: 1rem;
+}
+
+.form-group {
+    position: relative;
+    margin-top: 1.5rem;
+}
+
+.form__input {
+    width: 100%;
+    height: 100%;
+    border: 1px solid rgb(188, 188, 188);
+    border-radius: 5px;
+    font-family: inherit;
+    font-size: inherit;
+    color: rgb(34, 34, 34);
+    outline: none;
+    padding: 1.1rem;
+    /* background: none; */
+}
+
+/* Change border when input focus*/
+
+.form__input:focus {
+    border-color: #157a04;
+}
+
+.form__label {
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+    padding: 0 0.5rem;
+    font-size: 18px;
+    color: gray;
+    cursor: text;
+    transition: top 200ms ease-in, left 200ms ease-in, font-size 200ms ease-in;
+    background-color: white;
+}
+
+/* 
+1. When the input is in the focus state
+reduce the size of the label and move upwards 
+
+2. Keep label state when content is in input field 
+*/
+
+.form__input:focus~.form__label,
+.form__input:not(:placeholder-shown).form__input:not(:focus)~.form__label {
+    top: -0.7rem;
+    font-size: 1rem;
+    left: 0.8rem;
+    color: #157a04;
+}
+
+.close {
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.signupBtn {
+    width: 100%;
+    padding: 0.7rem !important;
+}

@@ -1,0 +1,22 @@
+.item-container .item
+{
+    background-color: rgb(217, 217, 217);
+    padding: 5px 10px;
+    border-radius: 15px;    
+    position: relative;
+}
+
+.item-container .item-remove
+{                          
+    position: absolute;      
+    top : 0px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.remove-item-btn,.remove-item-btn:focus,.remove-item-btn.active
+{
+    border: none;
+    padding: 0 !important;
+    box-shadow: none !important;
+}

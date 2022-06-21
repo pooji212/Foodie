@@ -1,0 +1,38 @@
+.table tr
+{
+    vertical-align: middle;
+    text-align: center;
+}
+.table img
+{
+    width: 80px;
+    border-radius: 8px;
+}
+.quantity
+{    
+    margin: auto;
+    max-width: fit-content;
+    border-radius: 20px;
+    background-color: rgb(237, 237, 237);    
+}
+.quantity .btn:focus
+{
+    box-shadow: none !important;
+}
+
+.quantity .btn
+{
+    font-size: 20px;
+    padding-top: 2px;
+    font-weight: 600;
+}
+
+.quantity .count
+{
+    padding-top: 2px;
+}
+
+.empty-cart-img
+{
+    width: 250px;    
+}

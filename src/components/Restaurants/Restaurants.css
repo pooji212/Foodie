@@ -1,0 +1,291 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+
+.gallery
+{
+    height: 100%;    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.gallery .card-img-top
+{
+    object-fit: cover;
+}
+.gallery .col-lg-8
+{
+    width: 670px;
+}
+.gallery .col-lg-4 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.gallery .col-lg-6 {
+    width: 200px;
+}
+.main_menu {
+    display: flex;
+    padding: 16px 0 8px 0;     
+    border-bottom: 0.1rem solid rgba(114, 114, 114, 0.644);
+    background-color: rgb(255, 255, 255);
+}
+
+.main_menu .nav_link 
+{    
+    font-size: 17px;
+    width: fit-content;    
+    cursor: pointer;    
+    padding: 15px 25px;    
+}
+
+.description {
+
+    /* font-family: Okra,Helvetica,sans-serif; */
+    /* font-family: 'Montserrat', sans-serif; */
+    color: rgba(0, 0, 0, 0.616);
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.nav_link
+{
+    color: rgba(102, 102, 102, 0.97);
+}
+.nav_link:hover,.navlink:hover
+{
+    color: rgb(239, 79, 95);
+}
+
+.nav_link.active {
+    padding-bottom: 16px;
+    color: rgb(239, 79, 95);
+    border-bottom: 3px solid #ef4f5f;
+}
+
+ul {
+    list-style-type: none;
+    font-size: large;
+    /* margin-top: 0.7rem; */
+}
+
+/* .wrapper_left
+{
+    top: 67px;
+} */
+.menu {
+    padding: 0;
+    /* border-right: 2px solid rgba(114, 114, 114, 0.212); */
+    cursor: pointer;
+}
+/* .navlink.active {
+    padding: 0.8rem 0;
+    padding-left: 4px;
+    font-weight: 500;
+    color: rgb(239, 79, 95);
+    border-left: 3px solid rgb(239, 79, 95);
+    background: linear-gradient(-90deg, rgb(255, 255, 255), rgb(255, 237, 239));
+} */
+
+.restaurants .card .card-body
+{
+    padding-left: 4px !important;
+}
+
+.card {
+    border: none;
+    position: relative;
+}
+
+/* .item .card:hover,
+.overview .card:hover {
+    box-shadow: 0px 0px 10px 0px rgba(214, 214, 214, 0.37);
+} */
+.card:hover
+{
+    box-shadow: none;
+    border: none;
+}
+.photos .card:hover{
+    box-shadow: none;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0.7rem;
+}
+
+.dish-img
+{
+    border-radius: 15px;
+    width: 100%;    
+}
+
+
+.card-body {
+    padding: 5px 2px 2px 20px !important;    
+}
+.card-body *
+{
+    margin: 0 !important;
+}
+
+.card-text {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.stars {
+    margin-bottom: 0.2rem;
+    color: rgb(255, 222, 36);
+    margin-left: 10px;
+}
+.addToCart {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-top: 10px !important;
+    margin-right: 5px;
+    /* width: 18%; */
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgb(28, 223, 223); */
+}
+
+.addToCart .my-btn,
+.addToCart .my-btn:hover
+{
+    background-color: #ffecee;
+    border-color: #ef4f5f;   
+    color: #e73c44; 
+    border-radius: 8px;
+    padding: 5px 25px 5px 15px;
+    position: relative;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.addToCart .my-btn span{                
+    position: absolute;
+    right: -24px;
+    top: -4px;
+}
+
+.addToCart span {
+    width: 100%;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+
+.addToCart .num {
+    border-left: 1px solid rgba(0, 0, 0, 0.2);
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+h5 {
+
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 10px;
+}
+
+.photos img {
+    border-radius: 6%;
+}
+
+.photos .card {
+    text-align: center;
+}
+
+.photos img:hover {
+    transform: scale(1.02);
+}
+
+.text-muted
+{
+    margin-left: 10px;
+}
+
+.description {
+
+    /* font-family: Okra,Helvetica,sans-serif; */
+    /* font-family: 'Montserrat', sans-serif; */
+    color: rgba(0, 0, 0, 0.616);
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+}
+.hotel-details
+{
+    height: 200px;
+    /* background-color: white; */
+    z-index: -2;
+}
+.wrapper_left
+{
+    position: sticky;
+    height: 500px;
+    top: 210px;    
+    overflow-y: scroll;
+}
+.wrapper_left::-webkit-scrollbar /* hiding scrollbar */
+{
+    display: none;
+}
+.nav-content
+{
+    position: relative;
+}
+
+
+.list-group-item
+{
+    background-color: rgb(255, 255, 255) !important;
+    color: rgb(0, 0, 0) !important;
+    margin: 0 !important;    
+    border: 0 !important;
+    padding: 13px 0 13px 10px !important;    
+    border-right: 0.05rem solid rgb(230, 230, 230) !important;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.list-group-item.active
+{         
+    padding: 13px 0 13px 10px;    
+    font-weight: 500 !important;
+    color: rgb(239, 79, 95) !important;
+    border-right: 0.2rem solid rgb(239, 79, 95) !important;
+    background: linear-gradient(90deg, rgb(255, 255, 255), rgb(255, 230, 234));
+}
+
+/* .scrollspy-example
+{
+    height: 500px;
+    overflow-y: scroll;
+} */
+
+/* overview */
+
+.overview h4
+{
+    font-weight: 400;
+}
+
+.overview p
+{
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.overview .card
+{
+    width: 100%;
+    box-shadow: 0px 0px 6px 0px rgba(154, 154, 154, 0.48);
+}
+.overview .card h5
+{
+    margin: 0;
+}

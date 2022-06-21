@@ -1,0 +1,151 @@
+.navbar {
+    border-bottom: 2px solid rgb(236, 236, 236);
+}
+
+a.nav-link {
+    font-size: 16px;
+    margin-right: 20px;
+    width: 100%;
+}
+
+.nav-link.active {
+    color: #e73c44 !important;
+    margin-right: 20px;
+}
+
+.brand-img {
+    width: 100px;
+    margin-left: 10px;
+}
+
+.general {
+    margin: 0 !important;
+    padding-left: 5px;
+}
+
+.list {
+    max-height: 91.6vh;
+    overflow-y: scroll;
+}
+
+.guidelines {
+    max-height: 91.6vh;
+    overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.general li {
+    padding: 1px 0px;
+}
+
+.general li a {
+    color: rgb(101, 101, 101) !important;
+    padding: 5px 0px 5px 20px;
+    display: block;
+}
+
+.general li a.active {
+    color: #e73c44 !important;
+    padding: 5px 0px 5px 20px;
+    background-color: rgb(240, 240, 240);
+    border-radius: 5px;
+}
+
+.navbar-expand-md {
+    position: relative;
+}
+
+.navbar-toggler.toggler {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: rgb(204, 204, 204);
+    color: rgb(23, 23, 23);
+    font-size: 20px;
+    padding: 3px 15px 5px 15px;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+@media (min-width:576px) {
+
+    .col-sm-12 {
+        flex: 0 0 auto;
+        width: 100%
+    }
+
+}
+
+@media (min-width:768px) {
+
+    .col-md-2 {
+        flex: 0 0 auto;
+        width: 20% !important;
+    }
+
+    .col-md-3 {
+        flex: 0 0 auto;
+        width: 25%
+    }
+
+    .col-md-12 {
+        flex: 0 0 auto;
+        width: 100%
+    }
+
+}
+
+@media (min-width:992px) {
+
+    .col-lg-3 {
+        flex: 0 0 auto;
+        width: 22% !important;
+    }
+
+    .col-lg-6 {
+        flex: 0 0 auto;
+        width: 56% !important;
+    }
+}
+
+.guidelines p {
+    text-align: justify;
+    font-size: 15px;
+}
+
+.guidelines ul {
+    list-style: disc;
+}
+
+.guidelines ul ul {
+    list-style: circle;
+}
+
+.guidelines h4 {
+    margin-top: 20px;
+}
+
+
+.section-list li {
+    font-size: 14px;
+    padding: 4px 0;
+}
+
+.section-list li a {
+    font-size: 14px;
+    padding: 4px 0;
+    color: rgb(101, 101, 101) !important;
+}
+
+.section-list li a.active {
+    font-size: 14px;
+    padding: 4px 0;
+    color: rgb(205, 40, 40) !important;
+}

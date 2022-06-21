@@ -1,0 +1,19 @@
+li
+{
+    font-size: 15px;
+    letter-spacing: 1px;
+    padding: 8px 0px;
+    font-family: 'Nunito', sans-serif;
+}
+
+footer
+{
+    padding: 50px 10px 20px 10px;
+}
+
+.footer-break
+{
+    padding-bottom: 10px ;
+    max-width: 1220px;
+    margin: auto;
+}
